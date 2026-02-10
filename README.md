@@ -4,6 +4,36 @@ A Python ETL pipeline that scrapes, parses, and normalizes Brazilian crop progre
 
 CONAB publishes weekly crop progress reports for Brazil's major crops at the state level, but the data is trapped in non-standard Excel spreadsheets across hundreds of individual files and ZIP archives. This pipeline consolidates everything into machine-readable Parquet and CSV formats.
 
+## Why This Matters
+
+USDA publishes US crop progress weekly in clean CSVs. Brazil — the world's largest soybean exporter and #3 corn exporter — had no equivalent machine-readable dataset. Anyone making decisions about global grain markets was either manually reading CONAB PDFs/Excel files or flying blind on Brazilian crop timing. This dataset changes that.
+
+### Commodity Trading & Price Forecasting
+- **Real-time supply signals**: Planting delays or harvest acceleration directly impact futures prices (CBOT soybeans, corn, etc.). A trader seeing MT soybeans planting 10% behind the 5-year average in November can position ahead of the market.
+- **Basis trading**: State-level granularity lets you estimate regional supply bottlenecks — e.g., if Paraná harvest is lagging while Mato Grosso is ahead, that affects port logistics and local basis.
+- **Cross-country arbitrage**: Compare Brazil's planting/harvest pace against USDA weekly crop progress for the US to forecast global supply shifts.
+
+### Logistics & Supply Chain
+- **Port and rail capacity planning**: Knowing that soybeans harvest in MT peaks 2-3 weeks before PR means you can anticipate when Santos vs Paranaguá ports will be under pressure.
+- **Trucking and storage**: Corn 2 (safrinha) harvest overlapping with soybean exports creates the infamous Brazilian logistics crunch every Jul-Aug. This data quantifies the timing precisely.
+- **Crush margin optimization**: Soy processors can plan capacity utilization based on when raw soybeans will actually arrive from each state.
+
+### Agricultural Insurance & Credit
+- **Crop failure early warning**: If a state's planting progress stalls (e.g., drought in RS), insurers can start reserving for claims weeks before official loss reports.
+- **Credit risk assessment**: Banks financing farmers can flag regions where planting is abnormally late — higher probability of replanting costs or yield loss.
+
+### Government & Policy
+- **Food security monitoring**: Track whether staple crops (rice, dry beans) are on pace for domestic consumption needs.
+- **Export quota/tax decisions**: Brazil periodically considers export restrictions — this data provides the evidence base for whether supply will be tight.
+
+### Agribusiness Strategy
+- **Input timing**: Seed, fertilizer, and agrochemical companies can time regional sales campaigns to actual planting windows rather than calendar estimates.
+- **Competitive intelligence**: Compare current season vs historical to identify structural shifts — e.g., cotton acreage expanding into new states, or corn 2 planting window getting tighter year over year.
+
+### Quantitative Research
+- **Yield modeling**: Combine progress pace with satellite NDVI and weather data to build state-level yield forecasts — faster planting under good conditions correlates with higher yields.
+- **Climate trend analysis**: 4+ years of weekly data lets you detect whether planting windows are shifting due to changing rainfall patterns.
+
 ## Output Dataset
 
 **15,600+ records** covering 2022-present, with weekly updates for 7 crops across 13 Brazilian states.
@@ -166,7 +196,7 @@ Each CONAB Excel file contains one sheet with multiple crop blocks stacked verti
 
 Key design decisions:
 - **Heuristic detection** (not fixed row positions) to handle format variations across years
-- **Always divides by 100**: CONAB values are consistently on a 0-100 scale
+- **Smart percentage coercion**: openpyxl returns Excel percentage-formatted cells as 0-1 decimals (used as-is); string annotations like `"0,5% **"` are divided by 100
 - **Graceful skipping** of non-Plantio files (Fenologia, Acompanhamento) and corrupt files
 
 ## Testing
@@ -187,10 +217,22 @@ python -m pytest tests/ -v
 # - Verify state codes are valid 2-letter codes
 ```
 
+## Automated Updates
+
+A GitHub Actions workflow runs **every Monday and Thursday at 14:00 UTC**, automatically:
+
+1. Restoring cached raw data from previous runs
+2. Running the full pipeline (downloads only new files, skips existing)
+3. Committing updated CSV + Parquet to the repo if new data is found
+
+This means the output files in `data/output/` are always up-to-date — no manual intervention needed. You can also trigger it manually from the **Actions** tab.
+
+The workflow uses GitHub's free tier (unlimited for public repos, 2,000 min/month for private). Each run takes ~3 minutes.
+
 ## Known Limitations
 
 - **2020-2021 data**: These years used a different spreadsheet format ("Acompanhamento semanal das lavouras") that the parser does not currently extract crop progress from. The effective data range starts from 2022.
-- **Footnoted values**: A few cells contain footnote annotations like `"15% (1)"` or `"85,8% (1)"` that are not parsed (logged as warnings). These are rare and represent < 0.1% of values.
+- **Footnoted values**: A few cells contain footnote annotations like `"15% (1)"` or `"85,8% ⁽¹⁾"` — these are parsed correctly via regex, but edge cases may exist.
 - **Seasonal crops**: Some crops (Feijao 2a/3a, corn_2) only appear during their respective seasons, so coverage is not year-round.
 
 ## License
