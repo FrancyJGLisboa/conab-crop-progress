@@ -1,6 +1,5 @@
-# Data files
+# Data files (raw downloads and metadata are local-only)
 data/raw/
-data/output/
 data/metadata/
 *.zip
 
