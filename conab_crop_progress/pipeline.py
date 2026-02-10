@@ -67,6 +67,14 @@ def run_pipeline(
     for col in ("report_date", "week_start", "week_end"):
         df[col] = pd.to_datetime(df[col]).dt.date
 
+    # Deduplicate: some files contain the same crop block twice
+    dup_cols = ["report_date", "crop", "crop_season", "activity", "state"]
+    before = len(df)
+    df = df.drop_duplicates(subset=dup_cols, keep="first")
+    dropped = before - len(df)
+    if dropped:
+        logger.info("Dropped %d duplicate rows", dropped)
+
     # Sort
     df = df.sort_values(
         ["report_date", "crop", "activity", "state"]

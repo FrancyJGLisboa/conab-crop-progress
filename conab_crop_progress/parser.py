@@ -37,8 +37,8 @@ STATE_HEADER_RE = re.compile(
 # Total/summary row
 TOTAL_ROW_RE = re.compile(r"^\d+\s*estados?$", re.IGNORECASE)
 
-# Numeric percentage with possible annotations: "0,5% **", "100"
-PERCENT_RE = re.compile(r"([\d]+(?:[.,]\d+)?)\s*%?\s*\**\s*$")
+# Numeric percentage with possible annotations: "0,5% **", "100", "15% (1)"
+PERCENT_RE = re.compile(r"([\d]+(?:[.,]\d+)?)\s*%?\s*(?:\**|\(.*\)|[⁽⁾\d]*)\s*$")
 
 
 # ---------------------------------------------------------------------------
@@ -48,8 +48,11 @@ PERCENT_RE = re.compile(r"([\d]+(?:[.,]\d+)?)\s*%?\s*\**\s*$")
 def _coerce_pct(value: Any) -> float | None:
     """Coerce a cell value to a float percentage in [0, 1].
 
-    CONAB spreadsheets always use a 0-100 scale (e.g. 0.5 means 0.5%,
-    50 means 50%, 100 means 100%).  We always divide by 100.
+    openpyxl returns Excel percentage-formatted cells already as decimals
+    (0.56 = 56%, 1.0 = 100%), so numeric values are used as-is.
+
+    String annotations (e.g. "0,5% **", "50%") are on a 0-100 text scale
+    and must be divided by 100.
 
     Handles: int, float, str with commas, str with '%', None.
     """
@@ -57,7 +60,8 @@ def _coerce_pct(value: Any) -> float | None:
         return None
 
     if isinstance(value, (int, float)):
-        return float(value) / 100.0
+        # openpyxl already returns percentages as 0-1 decimals
+        return float(value)
 
     if isinstance(value, str):
         value = value.strip()

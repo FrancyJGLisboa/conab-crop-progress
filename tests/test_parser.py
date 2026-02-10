@@ -20,28 +20,37 @@ from conab_crop_progress.translator import (
 
 
 class TestCoercePct:
-    """CONAB values are always on a 0-100 scale; we normalise to 0-1."""
+    """openpyxl returns numeric values already in 0-1 range; strings need /100."""
 
-    def test_float_half_percent(self):
-        # 0.5 in CONAB means 0.5% → 0.005
-        assert _coerce_pct(0.5) == pytest.approx(0.005)
+    def test_float_from_excel(self):
+        # openpyxl returns 0.56 for a cell displaying "56%" → already 0-1
+        assert _coerce_pct(0.56) == pytest.approx(0.56)
 
-    def test_float_50_percent(self):
-        assert _coerce_pct(50.0) == pytest.approx(0.5)
+    def test_float_one_means_100pct(self):
+        # openpyxl returns 1.0 for "100%" → already 1.0
+        assert _coerce_pct(1.0) == pytest.approx(1.0)
 
-    def test_int_100(self):
-        assert _coerce_pct(100) == pytest.approx(1.0)
+    def test_float_small_value(self):
+        # openpyxl returns 0.005 for "0.5%" → already 0.005
+        assert _coerce_pct(0.005) == pytest.approx(0.005)
 
     def test_int_0(self):
         assert _coerce_pct(0) == 0.0
 
+    def test_int_1(self):
+        # openpyxl may return int 1 for "100%"
+        assert _coerce_pct(1) == pytest.approx(1.0)
+
     def test_string_comma_decimal(self):
+        # String "0,5" means 0.5% → divide by 100
         assert _coerce_pct("0,5") == pytest.approx(0.005)
 
     def test_string_with_pct_sign(self):
+        # String "50%" means 50% → divide by 100
         assert _coerce_pct("50%") == pytest.approx(0.5)
 
     def test_string_with_asterisks(self):
+        # Annotated string "0,5% **" means 0.5% → divide by 100
         assert _coerce_pct("0,5% **") == pytest.approx(0.005)
 
     def test_none(self):
@@ -54,6 +63,7 @@ class TestCoercePct:
         assert _coerce_pct("") is None
 
     def test_string_100(self):
+        # String "100" means 100% → divide by 100
         assert _coerce_pct("100") == pytest.approx(1.0)
 
 
@@ -125,14 +135,16 @@ RAW_DIR = Path(__file__).resolve().parent.parent / "data" / "raw"
 
 
 def _find_sample_xlsx() -> list[Path]:
-    """Find crop progress xlsx files in the raw data directory."""
+    """Find crop progress xlsx files in the raw data directory (2022+)."""
     if not RAW_DIR.exists():
         return []
-    # Only pick "Plantio" files (crop progress), not "Fenologia" etc.
-    return sorted(
+    # Only pick "Plantio" files from 2022+ (2020-2021 use a different format)
+    candidates = sorted(
         p for p in RAW_DIR.rglob("*.xlsx")
-        if "plantio" in p.name.lower() or "Plantio" in p.name
-    )[:3]
+        if ("plantio" in p.name.lower() or "Plantio" in p.name)
+        and any(f"/{yr}/" in str(p) for yr in range(2022, 2030))
+    )
+    return candidates[:3]
 
 
 @pytest.mark.skipif(
