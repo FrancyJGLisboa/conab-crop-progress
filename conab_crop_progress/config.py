@@ -23,9 +23,10 @@ ARCHIVE_ZIPS: dict[int, str] = {
     2020: "https://arquivosportal.conab.gov.br/api/public/dl/Vpz9veNH/progressodesafra/2020.zip",
 }
 
-# Base URL for 2025+ individual file discovery
+# Base URL for 2025+ individual file discovery (moved to gov.br Plone CMS)
 CONAB_LISTING_BASE = (
-    "https://www.conab.gov.br/info-agro/safras/progresso-de-safra"
+    "https://www.gov.br/conab/pt-br/atuacao/informacoes-agropecuarias"
+    "/safras/progresso-de-safra"
 )
 
 # ---------------------------------------------------------------------------

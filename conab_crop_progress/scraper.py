@@ -195,7 +195,7 @@ def discover_2025_urls() -> list[dict]:
                 download_url = href
 
             if not download_url.startswith("http"):
-                download_url = "https://www.conab.gov.br" + download_url
+                download_url = "https://www.gov.br" + download_url
 
             if download_url in seen_urls:
                 continue
