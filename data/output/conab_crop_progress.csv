@@ -15128,3 +15128,60 @@ report_date,week_start,week_end,crop,crop_season,activity,state,state_code,is_to
 2026-03-21,2026-03-15,2026-03-21,soybeans,2025/26,harvest,São Paulo,SP,False,0.62,0.5,0.97,0.7300000000000001,Plantio e Colheita 15-03 a 21-03.xlsx
 2026-03-21,2026-03-15,2026-03-21,soybeans,2025/26,harvest,Tocantins,TO,False,0.68,0.58,0.75,0.708,Plantio e Colheita 15-03 a 21-03.xlsx
 2026-03-21,2026-03-15,2026-03-21,soybeans,2025/26,harvest,Total,,True,0.677,0.592,0.764,0.664,Plantio e Colheita 15-03 a 21-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,corn_1,2025/26,harvest,Bahia,BA,False,0.26,0.2,0.4,0.19522,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,corn_1,2025/26,harvest,Goiás,GO,False,0.03,0.01,0.04,0.012,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,corn_1,2025/26,harvest,Maranhão,MA,False,0.0,0.0,0.0,0.0,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,corn_1,2025/26,harvest,Minas Gerais,MG,False,0.21,0.08,0.45,0.288,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,corn_1,2025/26,harvest,Paraná,PR,False,0.87,0.8,0.92,0.774,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,corn_1,2025/26,harvest,Piauí,PI,False,0.0,0.0,0.0,0.0,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,corn_1,2025/26,harvest,Rio Grande do Sul,RS,False,0.88,0.86,0.86,0.774,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,corn_1,2025/26,harvest,Santa Catarina,SC,False,0.889,0.6628,0.88,0.8248000000000001,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,corn_1,2025/26,harvest,São Paulo,SP,False,0.4,0.2,0.9,0.734,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,corn_1,2025/26,harvest,Total,,True,0.457,0.38,0.533,0.458,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,corn_2,2025/26,planting,Goiás,GO,False,1.0,0.98,1.0,1.0,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,corn_2,2025/26,planting,Maranhão,MA,False,1.0,1.0,1.0,0.99,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,corn_2,2025/26,planting,Mato Grosso,MT,False,1.0,1.0,1.0,0.9995,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,corn_2,2025/26,planting,Mato Grosso do Sul,MS,False,0.88,0.84,0.92,0.8799999999999999,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,corn_2,2025/26,planting,Minas Gerais,MG,False,0.94,0.84,0.92,0.8976,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,corn_2,2025/26,planting,Paraná,PR,False,0.9,0.83,0.96,0.9019999999999999,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,corn_2,2025/26,planting,Piauí,PI,False,1.0,0.9,1.0,0.9400000000000001,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,corn_2,2025/26,planting,São Paulo,SP,False,0.7,0.2,1.0,0.79,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,corn_2,2025/26,planting,Tocantins,TO,False,1.0,1.0,1.0,1.0,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,corn_2,2025/26,planting,Total,,True,0.955,0.916,0.979,0.955,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,cotton,2025/26,planting,Bahia,BA,False,1.0,1.0,1.0,1.0,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,cotton,2025/26,planting,Goiás,GO,False,1.0,1.0,1.0,1.0,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,cotton,2025/26,planting,Maranhão,MA,False,1.0,1.0,1.0,1.0,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,cotton,2025/26,planting,Mato Grosso,MT,False,1.0,1.0,1.0,1.0,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,cotton,2025/26,planting,Mato Grosso do Sul,MS,False,1.0,1.0,1.0,1.0,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,cotton,2025/26,planting,Minas Gerais,MG,False,1.0,1.0,1.0,1.0,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,cotton,2025/26,planting,Piauí,PI,False,1.0,1.0,1.0,1.0,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,cotton,2025/26,planting,Total,,True,1.0,1.0,1.0,1.0,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,dry_beans_1,2025/26,harvest,Bahia,BA,False,0.82,0.75,0.84,0.6854,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,dry_beans_1,2025/26,harvest,Goiás,GO,False,1.0,1.0,1.0,1.0,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,dry_beans_1,2025/26,harvest,Minas Gerais,MG,False,1.0,0.99,1.0,0.998,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,dry_beans_1,2025/26,harvest,Paraná,PR,False,1.0,1.0,1.0,1.0,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,dry_beans_1,2025/26,harvest,Piauí,PI,False,0.04,0.02,0.06,0.244,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,dry_beans_1,2025/26,harvest,Rio Grande do Sul,RS,False,0.65,0.59,0.61,0.702,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,dry_beans_1,2025/26,harvest,Santa Catarina,SC,False,0.89,0.8647,0.91,0.932,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,dry_beans_1,2025/26,harvest,São Paulo,SP,False,1.0,1.0,1.0,1.0,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,dry_beans_1,2025/26,harvest,Total,,True,0.694,0.666,0.73,0.722,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,rice,2025/26,harvest,Goiás,GO,False,0.99,0.99,0.65,0.42000000000000004,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,rice,2025/26,harvest,Maranhão,MA,False,0.0653495440729483,0.0653495440729483,0.05,0.03906990881458966,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,rice,2025/26,harvest,Mato Grosso,MT,False,0.2585,0.2058,0.251,0.14964,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,rice,2025/26,harvest,Rio Grande do Sul,RS,False,0.36,0.31,0.56,0.266,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,rice,2025/26,harvest,Santa Catarina,SC,False,0.83,0.81,0.86,0.606,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,rice,2025/26,harvest,Tocantins,TO,False,0.3,0.22,0.45,0.31999999999999995,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,rice,2025/26,harvest,Total,,True,0.395,0.349,0.527,0.285,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,soybeans,2025/26,harvest,Bahia,BA,False,0.6,0.55,0.85,0.5959999999999999,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,soybeans,2025/26,harvest,Goiás,GO,False,0.89,0.77,0.93,0.8699999999999999,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,soybeans,2025/26,harvest,Maranhão,MA,False,0.4,0.34,0.58,0.49400000000000005,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,soybeans,2025/26,harvest,Mato Grosso,MT,False,0.9886,0.9826,0.991,0.98342,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,soybeans,2025/26,harvest,Mato Grosso do Sul,MS,False,0.89,0.87,0.9,0.9019999999999999,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,soybeans,2025/26,harvest,Minas Gerais,MG,False,0.74,0.64,0.93,0.76,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,soybeans,2025/26,harvest,Paraná,PR,False,0.82,0.7,0.9,0.7659999999999999,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,soybeans,2025/26,harvest,Piauí,PI,False,0.5,0.36,0.68,0.488,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,soybeans,2025/26,harvest,Rio Grande do Sul,RS,False,0.22,0.13,0.29,0.12600000000000003,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,soybeans,2025/26,harvest,Santa Catarina,SC,False,0.3767,0.2542,0.53,0.36734,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,soybeans,2025/26,harvest,São Paulo,SP,False,0.75,0.62,0.97,0.86,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,soybeans,2025/26,harvest,Tocantins,TO,False,0.73,0.68,0.83,0.756,Plantio e Colheita 22-03 a 28-03.xlsx
+2026-03-28,2026-03-22,2026-03-28,soybeans,2025/26,harvest,Total,,True,0.743,0.677,0.814,0.724,Plantio e Colheita 22-03 a 28-03.xlsx
