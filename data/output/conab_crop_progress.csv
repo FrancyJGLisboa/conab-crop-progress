@@ -15545,3 +15545,69 @@ report_date,week_start,week_end,crop,crop_season,activity,state,state_code,is_to
 2026-05-08,2026-05-02,2026-05-08,wheat,2026,planting,Santa Catarina,SC,False,0.0,0.0,0.0,0.0,Plantio e Colheita 02-05 a 08-05.xlsx
 2026-05-08,2026-05-02,2026-05-08,wheat,2026,planting,São Paulo,SP,False,0.5,0.1,0.15,0.406,Plantio e Colheita 02-05 a 08-05.xlsx
 2026-05-08,2026-05-02,2026-05-08,wheat,2026,planting,Total,,True,0.17456640607347823,0.099,0.18354360864224292,0.1892867396979857,Plantio e Colheita 02-05 a 08-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,corn_1,2025/26,harvest,Bahia,BA,False,0.64,,0.96,0.71234,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,corn_1,2025/26,harvest,Goiás,GO,False,0.67,0.53,0.8,0.674,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,corn_1,2025/26,harvest,Maranhão,MA,False,0.15,0.07,0.25,0.22000000000000003,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,corn_1,2025/26,harvest,Minas Gerais,MG,False,0.75,0.7,0.96,0.8959999999999999,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,corn_1,2025/26,harvest,Paraná,PR,False,0.99,0.99,1.0,0.984,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,corn_1,2025/26,harvest,Piauí,PI,False,0.34,0.25,0.44,0.332,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,corn_1,2025/26,harvest,Rio Grande do Sul,RS,False,0.96,0.95,0.95,0.9099999999999999,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,corn_1,2025/26,harvest,Santa Catarina,SC,False,1.0,0.9896,0.996,0.9987999999999999,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,corn_1,2025/26,harvest,São Paulo,SP,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,corn_1,2025/26,harvest,Total,,True,0.7526540323696224,,0.823,0.794,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,corn_2,2025/26,planting,Goiás,GO,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,corn_2,2025/26,planting,Maranhão,MA,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,corn_2,2025/26,planting,Mato Grosso,MT,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,corn_2,2025/26,planting,Mato Grosso do Sul,MS,False,1.0,1.0,1.0,0.998,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,corn_2,2025/26,planting,Minas Gerais,MG,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,corn_2,2025/26,planting,Paraná,PR,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,corn_2,2025/26,planting,Piauí,PI,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,corn_2,2025/26,planting,São Paulo,SP,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,corn_2,2025/26,planting,Tocantins,TO,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,corn_2,2025/26,planting,Total,,True,1.0,1.0,1.0,0.999734168927135,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,cotton,2025/26,planting,Bahia,BA,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,cotton,2025/26,planting,Goiás,GO,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,cotton,2025/26,planting,Maranhão,MA,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,cotton,2025/26,planting,Mato Grosso,MT,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,cotton,2025/26,planting,Mato Grosso do Sul,MS,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,cotton,2025/26,planting,Minas Gerais,MG,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,cotton,2025/26,planting,Piauí,PI,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,cotton,2025/26,planting,Total,,True,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,dry_beans_1,2025/26,harvest,Bahia,BA,False,1.0,1.0,1.0,0.9841999999999999,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,dry_beans_1,2025/26,harvest,Goiás,GO,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,dry_beans_1,2025/26,harvest,Minas Gerais,MG,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,dry_beans_1,2025/26,harvest,Paraná,PR,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,dry_beans_1,2025/26,harvest,Piauí,PI,False,0.9,0.82,0.86,0.85,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,dry_beans_1,2025/26,harvest,Rio Grande do Sul,RS,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,dry_beans_1,2025/26,harvest,Santa Catarina,SC,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,dry_beans_1,2025/26,harvest,São Paulo,SP,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,dry_beans_1,2025/26,harvest,Total,,True,0.974,0.954,0.968,0.961,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,rice,2025/26,harvest,Goiás,GO,False,1.0,0.99,0.92,0.968,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,rice,2025/26,harvest,Maranhão,MA,False,0.5515114503816795,0.458076335877863,0.35,0.48030229007633585,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,rice,2025/26,harvest,Mato Grosso,MT,False,0.9941,0.968,0.9889,0.95954,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,rice,2025/26,harvest,Rio Grande do Sul,RS,False,0.98,0.97,0.99,0.95,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,rice,2025/26,harvest,Santa Catarina,SC,False,1.0,1.0,1.0,0.999,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,rice,2025/26,harvest,Tocantins,TO,False,1.0,0.95,1.0,0.9480000000000001,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,rice,2025/26,harvest,Total,,True,0.964,0.947,0.951,0.926,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,soybeans,2025/26,harvest,Bahia,BA,False,1.0,0.98,0.99,0.994,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,soybeans,2025/26,harvest,Goiás,GO,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,soybeans,2025/26,harvest,Maranhão,MA,False,0.81,0.76,0.85,0.8400000000000001,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,soybeans,2025/26,harvest,Mato Grosso,MT,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,soybeans,2025/26,harvest,Mato Grosso do Sul,MS,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,soybeans,2025/26,harvest,Minas Gerais,MG,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,soybeans,2025/26,harvest,Paraná,PR,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,soybeans,2025/26,harvest,Piauí,PI,False,0.99,0.99,0.99,0.994,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,soybeans,2025/26,harvest,Rio Grande do Sul,RS,False,0.97,0.96,0.97,0.9099999999999999,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,soybeans,2025/26,harvest,Santa Catarina,SC,False,0.9416,0.8869,0.969,0.9551200000000002,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,soybeans,2025/26,harvest,São Paulo,SP,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,soybeans,2025/26,harvest,Tocantins,TO,False,1.0,1.0,1.0,1.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,soybeans,2025/26,harvest,Total,,True,0.988,0.983,0.989,0.98,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,wheat,2026,planting,Bahia,BA,False,0.6,0.4,0.6,0.63,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,wheat,2026,planting,Goiás,GO,False,0.75,0.75,0.9,0.8959999999999999,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,wheat,2026,planting,Mato Grosso do Sul,MS,False,0.75,0.5,0.8,0.852,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,wheat,2026,planting,Minas Gerais,MG,False,0.9,0.86,0.93,0.9551999999999999,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,wheat,2026,planting,Paraná,PR,False,0.35,0.17,0.38,0.4,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,wheat,2026,planting,Rio Grande do Sul,RS,False,0.0,0.0,0.0,0.0,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,wheat,2026,planting,Santa Catarina,SC,False,0.0014,0.0,0.0,0.00028,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,wheat,2026,planting,São Paulo,SP,False,0.9,0.5,0.8,0.7140000000000001,Plantio e Colheita 09-05 a 15-05.xlsx
+2026-05-15,2026-05-09,2026-05-15,wheat,2026,planting,Total,,True,0.26332261301819543,0.17456640607347823,0.25186774037926307,0.2521128390598817,Plantio e Colheita 09-05 a 15-05.xlsx
