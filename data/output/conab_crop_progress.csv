@@ -15743,3 +15743,60 @@ report_date,week_start,week_end,crop,crop_season,activity,state,state_code,is_to
 2026-05-29,2026-05-23,2026-05-29,wheat,2026,planting,Santa Catarina,SC,False,0.007,0.0037,0.0,0.0054,Plantio e Colheita 23-05 a 29-05.xlsx
 2026-05-29,2026-05-23,2026-05-29,wheat,2026,planting,São Paulo,SP,False,1.0,1.0,0.98,0.9460000000000001,Plantio e Colheita 23-05 a 29-05.xlsx
 2026-05-29,2026-05-23,2026-05-29,wheat,2026,planting,Total,,True,0.41069672669292817,0.32099388951416247,0.379591420195198,0.38291428883455775,Plantio e Colheita 23-05 a 29-05.xlsx
+2026-06-05,2026-05-30,2026-06-05,corn_1,2025/26,harvest,Bahia,BA,False,0.81,0.75,0.98,0.81792,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,corn_1,2025/26,harvest,Goiás,GO,False,0.95,0.9,0.98,0.984,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,corn_1,2025/26,harvest,Maranhão,MA,False,0.35,0.27,0.42,0.42800000000000005,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,corn_1,2025/26,harvest,Minas Gerais,MG,False,0.99,0.96,1.0,0.9960000000000001,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,corn_1,2025/26,harvest,Paraná,PR,False,1.0,1.0,1.0,1.0,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,corn_1,2025/26,harvest,Piauí,PI,False,0.62,0.52,0.8,0.55,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,corn_1,2025/26,harvest,Rio Grande do Sul,RS,False,0.98,0.98,0.96,0.954,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,corn_1,2025/26,harvest,Santa Catarina,SC,False,1.0,1.0,0.996,0.9992000000000001,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,corn_1,2025/26,harvest,São Paulo,SP,False,1.0,1.0,1.0,1.0,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,corn_1,2025/26,harvest,Total,,True,0.877,0.846,0.906,0.88,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,corn_2,2025/26,harvest,Goiás,GO,False,0.0,0.0,0.0,0.01,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,corn_2,2025/26,harvest,Maranhão,MA,False,0.02,0.0,0.06,0.016,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,corn_2,2025/26,harvest,Mato Grosso,MT,False,0.061,0.0117,0.0246,0.06738000000000001,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,corn_2,2025/26,harvest,Mato Grosso do Sul,MS,False,0.0,0.0,0.01,0.014000000000000002,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,corn_2,2025/26,harvest,Minas Gerais,MG,False,0.0,0.0,0.01,0.0027,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,corn_2,2025/26,harvest,Paraná,PR,False,0.0,0.0,0.03,0.02,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,corn_2,2025/26,harvest,Piauí,PI,False,0.0,0.0,0.0,0.0,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,corn_2,2025/26,harvest,São Paulo,SP,False,0.0,0.0,0.0,0.0,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,corn_2,2025/26,harvest,Tocantins,TO,False,0.03,0.01,0.01,0.024,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,corn_2,2025/26,harvest,Total,,True,0.03,0.006,0.02,0.038,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,cotton,2025/26,harvest,Bahia,BA,False,0.04,0.02,0.05,0.03919999999999999,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,cotton,2025/26,harvest,Goiás,GO,False,0.01,0.0,0.03,0.012,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,cotton,2025/26,harvest,Maranhão,MA,False,0.0,0.0,0.0,0.0,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,cotton,2025/26,harvest,Mato Grosso,MT,False,0.0,0.0,0.0,2e-05,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,cotton,2025/26,harvest,Mato Grosso do Sul,MS,False,0.01,0.01,0.03,0.032,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,cotton,2025/26,harvest,Minas Gerais,MG,False,0.0,0.0,0.16,0.054000000000000006,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,cotton,2025/26,harvest,Piauí,PI,False,0.0,0.0,0.01,0.002,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,cotton,2025/26,harvest,Total,,True,0.009,0.004,0.014,0.01,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,rice,2025/26,harvest,Goiás,GO,False,1.0,1.0,0.99,0.99,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,rice,2025/26,harvest,Maranhão,MA,False,0.935,0.8784568835098336,0.95,0.8889107413010591,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,rice,2025/26,harvest,Mato Grosso,MT,False,1.0,1.0,1.0,1.0,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,rice,2025/26,harvest,Rio Grande do Sul,RS,False,1.0,1.0,1.0,0.994,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,rice,2025/26,harvest,Santa Catarina,SC,False,1.0,1.0,1.0,1.0,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,rice,2025/26,harvest,Tocantins,TO,False,1.0,1.0,1.0,0.994,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,rice,2025/26,harvest,Total,,True,0.997,0.994,0.997,0.988,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,soybeans,2025/26,harvest,Bahia,BA,False,1.0,1.0,1.0,1.0,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,soybeans,2025/26,harvest,Goiás,GO,False,1.0,1.0,1.0,1.0,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,soybeans,2025/26,harvest,Maranhão,MA,False,0.96,0.92,0.98,0.968,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,soybeans,2025/26,harvest,Mato Grosso,MT,False,1.0,1.0,1.0,1.0,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,soybeans,2025/26,harvest,Mato Grosso do Sul,MS,False,1.0,1.0,1.0,1.0,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,soybeans,2025/26,harvest,Minas Gerais,MG,False,1.0,1.0,1.0,1.0,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,soybeans,2025/26,harvest,Paraná,PR,False,1.0,1.0,1.0,1.0,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,soybeans,2025/26,harvest,Piauí,PI,False,0.99,0.99,1.0,0.998,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,soybeans,2025/26,harvest,Rio Grande do Sul,RS,False,1.0,1.0,1.0,0.992,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,soybeans,2025/26,harvest,Santa Catarina,SC,False,0.9955,0.987,0.996,0.995766,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,soybeans,2025/26,harvest,São Paulo,SP,False,1.0,1.0,1.0,1.0,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,soybeans,2025/26,harvest,Tocantins,TO,False,1.0,1.0,1.0,1.0,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,soybeans,2025/26,harvest,Total,,True,0.998,0.997,0.999,0.998,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,wheat,2026,planting,Bahia,BA,False,0.6,0.6,1.0,0.82,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,wheat,2026,planting,Goiás,GO,False,0.99,0.9,0.98,0.992,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,wheat,2026,planting,Mato Grosso do Sul,MS,False,1.0,1.0,1.0,1.0,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,wheat,2026,planting,Minas Gerais,MG,False,0.99,0.97,1.0,0.998,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,wheat,2026,planting,Paraná,PR,False,0.67,0.61,0.72,0.704,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,wheat,2026,planting,Rio Grande do Sul,RS,False,0.13,0.09,0.08,0.128,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,wheat,2026,planting,Santa Catarina,SC,False,0.0237,0.007,0.0,0.02074,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,wheat,2026,planting,São Paulo,SP,False,1.0,1.0,1.0,1.0,Plantio e Colheita 30-05 a 05-06.xlsx
+2026-06-05,2026-05-30,2026-06-05,wheat,2026,planting,Total,,True,0.45349951697617713,0.41069672669292817,0.42033324674360784,0.44712296245606403,Plantio e Colheita 30-05 a 05-06.xlsx
