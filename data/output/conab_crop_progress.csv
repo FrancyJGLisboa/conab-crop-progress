@@ -15923,3 +15923,56 @@ report_date,week_start,week_end,crop,crop_season,activity,state,state_code,is_to
 2026-06-19,2026-06-13,2026-06-19,wheat,2026,planting,Santa Catarina,SC,False,0.2389,0.073,0.05,0.09778,Plantio e Colheita 13-06 a 19-06.xlsx
 2026-06-19,2026-06-13,2026-06-19,wheat,2026,planting,São Paulo,SP,False,1.0,1.0,1.0,1.0,Plantio e Colheita 13-06 a 19-06.xlsx
 2026-06-19,2026-06-13,2026-06-19,wheat,2026,planting,Total,,True,0.7433679844306884,0.595,0.5658492596578468,0.6417929610697429,Plantio e Colheita 13-06 a 19-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,corn_1,2025/26,harvest,Bahia,BA,False,0.96,0.92,1.0,0.9321800000000001,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,corn_1,2025/26,harvest,Goiás,GO,False,1.0,1.0,1.0,1.0,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,corn_1,2025/26,harvest,Maranhão,MA,False,0.7,0.63,0.7,0.6599999999999999,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,corn_1,2025/26,harvest,Minas Gerais,MG,False,1.0,1.0,1.0,1.0,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,corn_1,2025/26,harvest,Paraná,PR,False,1.0,1.0,1.0,1.0,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,corn_1,2025/26,harvest,Piauí,PI,False,0.84,0.8,0.9,0.82,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,corn_1,2025/26,harvest,Rio Grande do Sul,RS,False,1.0,0.99,0.98,0.986,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,corn_1,2025/26,harvest,Santa Catarina,SC,False,1.0,1.0,0.996,0.9992000000000001,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,corn_1,2025/26,harvest,São Paulo,SP,False,1.0,1.0,1.0,1.0,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,corn_1,2025/26,harvest,Total,,True,0.953,0.937,0.954,0.949,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,corn_2,2025/26,harvest,Goiás,GO,False,0.03,0.01,0.02,0.07890000000000001,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,corn_2,2025/26,harvest,Maranhão,MA,False,0.2,0.1,0.3,0.21999999999999997,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,corn_2,2025/26,harvest,Mato Grosso,MT,False,0.3443,0.2071,0.2738,0.40472,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,corn_2,2025/26,harvest,Mato Grosso do Sul,MS,False,0.02,0.01,0.02,0.08800000000000001,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,corn_2,2025/26,harvest,Minas Gerais,MG,False,0.07,0.04,0.1,0.09000000000000001,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,corn_2,2025/26,harvest,Paraná,PR,False,0.03,0.01,0.12,0.13200000000000003,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,corn_2,2025/26,harvest,Piauí,PI,False,0.18,0.12,0.32,0.154,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,corn_2,2025/26,harvest,São Paulo,SP,False,0.02,0.02,0.0,0.078,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,corn_2,2025/26,harvest,Tocantins,TO,False,0.28,0.15,0.25,0.22800000000000004,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,corn_2,2025/26,harvest,Total,,True,0.188,0.11,0.17,0.246,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,cotton,2025/26,harvest,Bahia,BA,False,0.11,0.1,0.1100000000000001,0.09796000000000002,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,cotton,2025/26,harvest,Goiás,GO,False,0.04,0.03,0.1,0.03812,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,cotton,2025/26,harvest,Maranhão,MA,False,0.13,0.03,0.05,0.046,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,cotton,2025/26,harvest,Mato Grosso,MT,False,0.0101,0.0051,0.0194,0.01666,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,cotton,2025/26,harvest,Mato Grosso do Sul,MS,False,0.04,0.03,0.03,0.06200000000000001,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,cotton,2025/26,harvest,Minas Gerais,MG,False,0.11,0.05,0.38,0.154,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,cotton,2025/26,harvest,Piauí,PI,False,0.11,0.03,0.24,0.10599999999999998,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,cotton,2025/26,harvest,Total,,True,0.038,0.028,0.05,0.038,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,rice,2025/26,harvest,Goiás,GO,False,1.0,1.0,1.0,0.999,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,rice,2025/26,harvest,Maranhão,MA,False,1.0,0.9906584992343033,1.0,1.0,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,rice,2025/26,harvest,Mato Grosso,MT,False,1.0,1.0,1.0,1.0,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,rice,2025/26,harvest,Rio Grande do Sul,RS,False,1.0,1.0,1.0,1.0,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,rice,2025/26,harvest,Santa Catarina,SC,False,1.0,1.0,1.0,1.0,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,rice,2025/26,harvest,Tocantins,TO,False,1.0,1.0,1.0,1.0,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,rice,2025/26,harvest,Total,,True,1.0,1.0,1.0,1.0,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,wheat,2026,harvest,Bahia,BA,False,0.0,0.0,0.0,0.0,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,wheat,2026,harvest,Goiás,GO,False,0.27,0.25,0.4,0.31200000000000006,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,wheat,2026,harvest,Mato Grosso do Sul,MS,False,0.0,0.0,0.0,0.0,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,wheat,2026,harvest,Minas Gerais,MG,False,0.01,0.0,0.0,0.008,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,wheat,2026,harvest,Paraná,PR,False,0.0,0.0,0.0,0.0,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,wheat,2026,harvest,Rio Grande do Sul,RS,False,0.0,0.0,0.0,0.0,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,wheat,2026,harvest,Santa Catarina,SC,False,0.0,0.0,0.0,0.0,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,wheat,2026,harvest,São Paulo,SP,False,0.0,0.0,0.0,0.0,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,wheat,2026,harvest,Total,,True,0.007306971986082839,0.007026113972785386,0.01939198107826864,0.017793568870473554,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,wheat,2026,planting,Bahia,BA,False,1.0,1.0,1.0,1.0,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,wheat,2026,planting,Goiás,GO,False,0.99,0.99,0.98,0.994,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,wheat,2026,planting,Mato Grosso do Sul,MS,False,1.0,1.0,1.0,1.0,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,wheat,2026,planting,Minas Gerais,MG,False,1.0,1.0,1.0,1.0,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,wheat,2026,planting,Paraná,PR,False,0.93,0.84,0.91,0.8800000000000001,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,wheat,2026,planting,Rio Grande do Sul,RS,False,0.85,0.63,0.39,0.514,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,wheat,2026,planting,Santa Catarina,SC,False,0.288,0.2389,0.14,0.1956,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,wheat,2026,planting,São Paulo,SP,False,1.0,1.0,1.0,1.0,Plantio e Colheita 20-06 a 26-06.xlsx
+2026-06-26,2026-06-20,2026-06-26,wheat,2026,planting,Total,,True,0.8731892703057585,0.7433679844306884,0.6376353582959143,0.7296357446834185,Plantio e Colheita 20-06 a 26-06.xlsx
