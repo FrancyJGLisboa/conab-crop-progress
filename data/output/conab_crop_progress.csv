@@ -16022,3 +16022,49 @@ report_date,week_start,week_end,crop,crop_season,activity,state,state_code,is_to
 2026-07-03,2026-06-27,2026-07-03,wheat,2026,planting,Santa Catarina,SC,False,0.427,0.288,0.19,0.34659999999999996,Plantio e Colheita 27-06 a 03-07.xlsx
 2026-07-03,2026-06-27,2026-07-03,wheat,2026,planting,São Paulo,SP,False,1.0,1.0,1.0,1.0,Plantio e Colheita 27-06 a 03-07.xlsx
 2026-07-03,2026-06-27,2026-07-03,wheat,2026,planting,Total,,True,0.9041984149315324,0.8731892703057585,0.7950680966341338,0.8245196475488719,Plantio e Colheita 27-06 a 03-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,corn_1,2025/26,harvest,Bahia,BA,False,0.984,0.98,1.0,0.97224,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,corn_1,2025/26,harvest,Goiás,GO,False,1.0,1.0,1.0,1.0,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,corn_1,2025/26,harvest,Maranhão,MA,False,0.8,0.75,0.85,0.784,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,corn_1,2025/26,harvest,Minas Gerais,MG,False,1.0,1.0,1.0,1.0,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,corn_1,2025/26,harvest,Paraná,PR,False,1.0,1.0,1.0,1.0,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,corn_1,2025/26,harvest,Piauí,PI,False,0.9,0.87,0.97,0.906,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,corn_1,2025/26,harvest,Rio Grande do Sul,RS,False,1.0,1.0,1.0,0.9960000000000001,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,corn_1,2025/26,harvest,Santa Catarina,SC,False,1.0,1.0,1.0,1.0,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,corn_1,2025/26,harvest,São Paulo,SP,False,1.0,1.0,1.0,1.0,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,corn_1,2025/26,harvest,Total,,True,0.971,0.963,0.983,0.972,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,corn_2,2025/26,harvest,Goiás,GO,False,0.1,0.05,0.15,0.25552,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,corn_2,2025/26,harvest,Maranhão,MA,False,0.63,0.5,0.65,0.48,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,corn_2,2025/26,harvest,Mato Grosso,MT,False,0.679,0.5114,0.5895,0.70802,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,corn_2,2025/26,harvest,Mato Grosso do Sul,MS,False,0.04,0.04,0.23,0.20400000000000001,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,corn_2,2025/26,harvest,Minas Gerais,MG,False,0.13,0.11,0.27,0.22400000000000003,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,corn_2,2025/26,harvest,Paraná,PR,False,0.1,0.05,0.3,0.258,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,corn_2,2025/26,harvest,Piauí,PI,False,0.45,0.3,0.5,0.364,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,corn_2,2025/26,harvest,São Paulo,SP,False,0.07,0.03,0.04,0.142,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,corn_2,2025/26,harvest,Tocantins,TO,False,0.6,0.4,0.65,0.6,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,corn_2,2025/26,harvest,Total,,True,0.389,0.285,0.417,0.467,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,cotton,2025/26,harvest,Bahia,BA,False,0.15,0.12,0.35,0.1943,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,cotton,2025/26,harvest,Goiás,GO,False,0.2,0.08,0.37,0.20500000000000002,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,cotton,2025/26,harvest,Maranhão,MA,False,0.26,0.18,0.25,0.142,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,cotton,2025/26,harvest,Mato Grosso,MT,False,0.0442,0.0196,0.0503,0.05012,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,cotton,2025/26,harvest,Mato Grosso do Sul,MS,False,0.13,0.05,0.32,0.20600000000000002,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,cotton,2025/26,harvest,Minas Gerais,MG,False,0.18,0.15,0.44,0.23399999999999999,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,cotton,2025/26,harvest,Piauí,PI,False,0.25,0.18,0.45,0.236,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,cotton,2025/26,harvest,Total,,True,0.081,0.051,0.136,0.091,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,wheat,2026,harvest,Bahia,BA,False,0.0,0.0,0.0,0.0,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,wheat,2026,harvest,Goiás,GO,False,0.35,0.3,0.6,0.554,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,wheat,2026,harvest,Mato Grosso do Sul,MS,False,0.0,0.0,0.0,0.0,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,wheat,2026,harvest,Minas Gerais,MG,False,0.04,0.03,0.0,0.042,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,wheat,2026,harvest,Paraná,PR,False,0.0,0.0,0.0,0.0,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,wheat,2026,harvest,Rio Grande do Sul,RS,False,0.0,0.0,0.0,0.0,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,wheat,2026,harvest,Santa Catarina,SC,False,0.0,0.0,0.0,0.0,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,wheat,2026,harvest,São Paulo,SP,False,0.0,0.0,0.0,0.0,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,wheat,2026,harvest,Total,,True,0.010926499004530951,0.009455360156073865,0.022016637670898755,0.022708047218517605,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,wheat,2026,planting,Bahia,BA,False,1.0,1.0,1.0,1.0,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,wheat,2026,planting,Goiás,GO,False,1.0,1.0,1.0,1.0,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,wheat,2026,planting,Mato Grosso do Sul,MS,False,1.0,1.0,1.0,1.0,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,wheat,2026,planting,Minas Gerais,MG,False,1.0,1.0,1.0,1.0,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,wheat,2026,planting,Paraná,PR,False,0.98,0.96,0.96,0.9640000000000001,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,wheat,2026,planting,Rio Grande do Sul,RS,False,0.94,0.88,0.89,0.8400000000000001,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,wheat,2026,planting,Santa Catarina,SC,False,0.6091,0.427,0.45,0.51822,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,wheat,2026,planting,São Paulo,SP,False,1.0,1.0,1.0,1.0,Plantio e Colheita 04-07 a 10-07.xlsx
+2026-07-10,2026-07-04,2026-07-10,wheat,2026,planting,Total,,True,0.9467088304258111,0.9041984149315324,0.9100813263662437,0.892054902087053,Plantio e Colheita 04-07 a 10-07.xlsx
