@@ -16252,3 +16252,40 @@ report_date,week_start,week_end,crop,crop_season,activity,state,state_code,is_to
 2026-08-07,2026-08-01,2026-08-07,wheat,2026,planting,Santa Catarina,SC,False,1.0,0.97,0.99,0.9974000000000001,Plantio e Colheita 01-08 a 07-08.xlsx
 2026-08-07,2026-08-01,2026-08-07,wheat,2026,planting,São Paulo,SP,False,1.0,1.0,1.0,1.0,Plantio e Colheita 01-08 a 07-08.xlsx
 2026-08-07,2026-08-01,2026-08-07,wheat,2026,planting,Total,,True,1.0,0.9987416206624606,0.9995481868542019,0.9998493956180673,Plantio e Colheita 01-08 a 07-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,corn_1,2025/26,harvest,Bahia,BA,False,1.0,1.0,1.0,1.0,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,corn_1,2025/26,harvest,Goiás,GO,False,1.0,1.0,1.0,1.0,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,corn_1,2025/26,harvest,Maranhão,MA,False,1.0,0.99,1.0,0.9960000000000001,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,corn_1,2025/26,harvest,Minas Gerais,MG,False,1.0,1.0,1.0,1.0,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,corn_1,2025/26,harvest,Paraná,PR,False,1.0,1.0,1.0,1.0,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,corn_1,2025/26,harvest,Piauí,PI,False,1.0,1.0,1.0,1.0,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,corn_1,2025/26,harvest,Rio Grande do Sul,RS,False,1.0,1.0,1.0,1.0,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,corn_1,2025/26,harvest,Santa Catarina,SC,False,1.0,1.0,1.0,1.0,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,corn_1,2025/26,harvest,São Paulo,SP,False,1.0,1.0,1.0,1.0,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,corn_1,2025/26,harvest,Total,,True,1.0,0.999,1.0,1.0,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,corn_2,2025/26,harvest,Goiás,GO,False,0.88,0.74,0.87,0.8939999999999999,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,corn_2,2025/26,harvest,Maranhão,MA,False,1.0,1.0,1.0,0.99,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,corn_2,2025/26,harvest,Mato Grosso,MT,False,0.9977,0.9936,0.997,0.9971399999999999,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,corn_2,2025/26,harvest,Mato Grosso do Sul,MS,False,0.64,0.47,0.72,0.6580000000000001,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,corn_2,2025/26,harvest,Minas Gerais,MG,False,0.62,0.48,0.9,0.748,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,corn_2,2025/26,harvest,Paraná,PR,False,0.6,0.52,0.8,0.686,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,corn_2,2025/26,harvest,Piauí,PI,False,0.97,0.95,1.0,0.97,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,corn_2,2025/26,harvest,São Paulo,SP,False,0.77,0.55,0.52,0.638,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,corn_2,2025/26,harvest,Tocantins,TO,False,1.0,1.0,1.0,0.9960000000000001,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,corn_2,2025/26,harvest,Total,,True,0.847,0.782,0.893,0.866,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,cotton,2025/26,harvest,Bahia,BA,False,0.56,0.45,0.58,0.64956,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,cotton,2025/26,harvest,Goiás,GO,False,0.77,0.67,0.79,0.8039999999999999,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,cotton,2025/26,harvest,Maranhão,MA,False,0.84,0.74,0.77,0.704,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,cotton,2025/26,harvest,Mato Grosso,MT,False,0.5873,0.4064,0.4258,0.6286,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,cotton,2025/26,harvest,Mato Grosso do Sul,MS,False,0.77,0.73,0.8,0.8619999999999999,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,cotton,2025/26,harvest,Minas Gerais,MG,False,0.58,0.42,0.81,0.676,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,cotton,2025/26,harvest,Piauí,PI,False,0.84,0.74,0.88,0.8380000000000001,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,cotton,2025/26,harvest,Total,,True,0.596,0.437,0.489,0.645,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,wheat,2026,harvest,Bahia,BA,False,0.0,0.0,0.0,0.004,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,wheat,2026,harvest,Goiás,GO,False,0.7,0.62,0.8,0.76,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,wheat,2026,harvest,Mato Grosso do Sul,MS,False,0.1,0.02,0.15,0.22000000000000003,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,wheat,2026,harvest,Minas Gerais,MG,False,0.35,0.24,0.57,0.5119999999999999,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,wheat,2026,harvest,Paraná,PR,False,0.0,0.0,0.0,0.006,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,wheat,2026,harvest,Rio Grande do Sul,RS,False,0.0,0.0,0.0,0.0,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,wheat,2026,harvest,Santa Catarina,SC,False,0.0,0.0,0.0,0.0,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,wheat,2026,harvest,São Paulo,SP,False,0.05,0.0,0.0,0.016,Plantio e Colheita 08-08 a 14-08.xlsx
+2026-08-14,2026-08-08,2026-08-14,wheat,2026,harvest,Total,,True,0.04659158123028391,0.032562105678233436,0.06298510981023847,0.06073957883168928,Plantio e Colheita 08-08 a 14-08.xlsx
